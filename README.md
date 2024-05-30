@@ -11,8 +11,8 @@ Please use the appropriate [Editorconfig](http://editorconfig.org/) plugin for y
 
 ### Install
 
-    git clone https://github.com/ORG/PROJECT.git
-    cd PROJECT
+    git clone https://github.com/brockbritton/The-No-Shoelace-Place-mobile.git
+    cd The-No-Shoelace-Place-mobile
     npm install
 
 ### Configure app
